@@ -1,3 +1,9 @@
+
+![Screenshot 2024-11-03 5 31 56 PM](https://github.com/user-attachments/assets/f6b800fb-7b6a-477e-a49b-35a2ec10c352)
+![Screenshot 2024-11-03 5 42 24 PM](https://github.com/user-attachments/assets/863211fc-d18f-4f98-b00d-2949ba1dc30c)
+![Screenshot 2024-11-03 5 42 32 PM](https://github.com/user-attachments/assets/51397c30-a1d8-43d6-93b5-524e93bb6270)
+![Screenshot 2024-11-03 5 42 37 PM](https://github.com/user-attachments/assets/d3dd8f4d-930f-4725-8fdf-fa6ebc9e51b8)
+
 ## Describe your project
 
 Ryan is my partner.
